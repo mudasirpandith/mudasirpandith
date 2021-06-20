@@ -31,5 +31,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mudasirpandith&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirpandith&theme=dark&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=mudasirpandith&&show_icons=true&title_color=000&icon_color=FF449F&text_color=000&bg_color=FFF5B7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirpandith&&show_icons=true&title_color=000&icon_color=FF449F&text_color=000&bg_color=FFF5B7" />
