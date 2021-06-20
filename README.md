@@ -18,13 +18,12 @@
 
 - 📫 How to reach me **mudasirpandith789@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TaZk9XHVA3O2viTcSH-XyJS1CdpEhb_E4hwF9_JTTCY/edit?usp=drivesdk](https://docs.google.com/document/d/1TaZk9XHVA3O2viTcSH-XyJS1CdpEhb_E4hwF9_JTTCY/edit?usp=drivesdk)
 
 - ⚡ Fun fact **Engineer By chance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mudasir ahmad pandith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudasir ahmad pandith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mudasir ahmad pandith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudasir ahmad pandith" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +32,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mudasirpandith&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<i class="fab fa-linkedin-in"></i>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirpandith&theme=dark&hide_langs_below=1" />
