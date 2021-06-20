@@ -12,6 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=mudasirpandith&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirpandith" /> 
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
+</p> 
 
 
 🌱 I’m currently learning **Web development**</p>
