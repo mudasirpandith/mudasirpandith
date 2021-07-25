@@ -52,5 +52,5 @@
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=mudasirpandith&&show_icons=true&title_color=000&icon_color=FF449F&text_color=000&bg_color=FFF5B7" />
 </br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirpandith&&show_icons=true&title_color=000&icon_color=FF449F&text_color=000&bg_color=FFF5B7&hide=html,css" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirpandith&&show_icons=true&title_color=000&icon_color=FF449F&text_color=000&bg_color=FFF5B7" />
 </p>
