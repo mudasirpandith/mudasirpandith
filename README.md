@@ -21,7 +21,7 @@
 
 👯 I’m looking to collaborate on **front end projects**</p>
 
- 👨‍💻 All of my projects are available at [https://mudasir-pandith.netlify.app/](https://mudasir-pandith.netlify.app/)</p>
+ 👨‍💻 All of my projects are available at [https://mudasirpandith.vercel.app/](https://mudasirpandith.vercel.app/)</p>
 
 📫 How to reach me **mudasirpandith789@gmail.com**
 
